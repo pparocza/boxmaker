@@ -1,3 +1,4 @@
+// load an instrument into a specified array
 function initInst(inst, instArray, fxArray, gainVal){
 
   var inst = inst;
@@ -25,6 +26,7 @@ function initInst(inst, instArray, fxArray, gainVal){
 
 }
 
+// start and stop an instrument
 function playInst(inst, startTime, stopTime){
 
   var inst = inst;
@@ -36,6 +38,7 @@ function playInst(inst, startTime, stopTime){
 
 }
 
+// not used
 function fMWP1(startTime, stopTime, gainVal){
 
   var startTime = startTime;
