@@ -1,2 +1,3 @@
 # boxmaker
-generative music with Web Audio API
+
+https://pparocza.github.io/boxmaker/
